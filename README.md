@@ -1,1 +1,1 @@
-# Exercise_1
+Lab Session 6 is Developers Collaboration Using GitHub 
